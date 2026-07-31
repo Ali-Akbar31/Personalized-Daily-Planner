@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# 🔴 BOHT ZAROORI - Database (Isay GitHub par mat bhejein!)
+planner.db
+*.db
+*.sqlite3
+
+# Environment Variables (Agr .env banaya toh usko bhi ignore karein)
+.env
+.env.local
+
+# IDE settings (agar VS Code ya PyCharm use kar rahe hain)
+.vscode/
+.idea/
+*.swp
+
+# OS generated files (Windows/Mac)
+Thumbs.db
+.DS_Store

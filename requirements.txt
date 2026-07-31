@@ -1,0 +1,9 @@
+Flask>=2.0.0
+scikit-learn
+pandas
+python-dotenv
+gunicorn
+google-auth
+requests
+pywebpush
+psycopg2-binary
